@@ -1,9 +1,10 @@
 ### Hi there 👋
+### Welcome to my introduction repository! :grinning: 
+
+- 🌱 I’m currently learning software test automation at Progmatic Academy.
+- 📫 How to reach me: [via LinkedIn.](https://www.linkedin.com/in/zsuzsanna-laczka/)
 
 <!--
-**laanna78/laanna78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
