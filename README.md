@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my introduction repository! :grinning: 
 
-- 🌱 I’m currently learning software test automation at Progmatic Academy.
+- 🌱 I’m currently working as a test automation engineer at TestIT.
 - 📫 How to reach me: [via LinkedIn.](https://www.linkedin.com/in/zsuzsanna-laczka/)
 
 <!--
