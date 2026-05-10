@@ -1,8 +1,17 @@
 ### Hi there 👋
-### Welcome to my introduction repository! :grinning: 
+### Welcome to my profile!
 
-- 🌱 I’m currently working as a test automation engineer at TestIT.
-- 📫 How to reach me: [via LinkedIn.](https://www.linkedin.com/in/zsuzsanna-laczka/)
+* 👨‍💻 __Role:__ Currently working as a __Test Automation Engineer__ at __TestIT Zrt.__
+
+* 🛠 __What I do:__ I design and implement automated testing solutions to ensure high software quality and seamless user experiences.
+* 🚀 __Tech Stack:__
+  * __Languages:__ Java, Python, TypeScript
+  * __Frameworks:__ Robot Framework, Selenium, REST Assured, Playwright
+  * __Tools:__ Postman, Git, GitHub Actions, Allure Reporting, Azure DevOps, Jira Zephyr
+* 🌱 __Learning:__ Currently exploring advanced __API testing__ and data-driven approach in __fintech__ environments.
+* 💡 __Philosophy:__ _"Quality means doing it right when no one is looking."_ (Henry Ford)
+  I focus on building maintainable, scalable, and efficient test suites.
+* 📫 __How to reach me:__ [via LinkedIn.](https://www.linkedin.com/in/zsuzsanna-laczka/)
 
 <!--
 
